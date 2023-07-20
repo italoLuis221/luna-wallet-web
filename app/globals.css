@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background: white;
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+
+}
